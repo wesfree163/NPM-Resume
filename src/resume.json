@@ -1,0 +1,43 @@
+{
+    "Education": 
+			["Hampton University", 
+			 "     Bachelors of Science: Computer Science"
+			 ],
+	"Relevant Course Work": 
+			 ["Object Oriented Programming I & II",
+			  "Data Structures & Algorithms I & II",
+			  "Programming Logic & Conditionals",
+			  "Computer Architecture I & II",
+			  "Operating Systems Design",
+			  "AWS Cloud Practitioner Course",
+			  "C++ & Unix Development"
+			  ],
+    "Languages & Tools": 
+			["Java", 
+			 "Python",
+			 "JavaScript",
+			 "HTML & (S)CSS",
+			 "React Native"
+			 ],
+    "Professional Experience": 
+			["Verizon Innovative Learning", 
+			 "   IT Systems Administrator   July 2017 - Present", 
+			 "TRIO Educational Talent Search", 
+			 "   HU Computer Science Department Representative", 
+			 "   Classroom Professor's Assistant"
+			 ],
+    "Tech Stack": 
+			["Github link to some tech tools",
+			 "https://github.com/wesfree163?tab=repositories"
+			 ],
+    "Projects": 
+			["Amazon Web Services Practitioner",
+			 "IOS Expo Mobile Development", 
+			 "Convert professional resume to node package"
+			 ],
+    "Contact": 
+			["Email: wesley.freeman163@gmail.com",
+			 "Github: https://github.com/wesfree163",
+			 "LinkedIn: https://www.linkedin.com/in/wesley-freeman-068518128/"
+			 ]
+}
